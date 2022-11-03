@@ -1,2 +1,2 @@
 # VucutKitleIndeksi
-Java ile kullanıcıdan alınan verilerle vücut kitle indeksi form
+[www.patika.dev](www.patika.dev)
