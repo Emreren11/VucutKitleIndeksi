@@ -1,2 +1,2 @@
 # Vücut Kitle İndeksi
-[www.patika.dev](www.patika.dev)
+Java ile kullanıcıdan alınan verilerle vücut kitle indeksi bulan program
